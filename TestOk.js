@@ -2,7 +2,7 @@
 // Locket Remote Config Rewrite
 // Endpoint: firebaseremoteconfig.googleapis.com
 // Dùng cho: Loon / Quantumult X / Surge / Shadowrocket
-// Tác giả: @duyvinh09
+// Tác giả: @bao220702
 // Vui lòng khi chia sẽ hoặc lấy về, làm ơn để nguồn giúp mình. Mình cảm ơn
 // ============================================================
 
@@ -55,9 +55,9 @@ if (ua.includes("Locket")) {
             title: "Lên Locket Gold rồi đó 😎",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @duyvinh.09 ✨",
+                    title: "Nhớ follow kênh tiktok @bao220702 ✨",
                     body: "Một follow của bạn, một niềm vui của mình 💛",
-                    imageURL: "https://cdn.upanhlaylink.com/i/GSfYXmKd.png"
+                    imageURL: "https://i.ibb.co/DPjmBpcL/BaoandMo.png"
                 }
             ],
             primary_button_title: "Xong rồi nhé!",
@@ -69,8 +69,8 @@ if (ua.includes("Locket")) {
         android_subscribe_gold_button_enabled: "false",
         profile_badge_visible: "true",
         lunar_new_year_app_icon_enabled: "true",
-        settings_instagram_url: "https://www.instagram.com/dvinh.09/",
-        settings_tiktok_url: "https://tiktok.com/@duyvinh.09"
+        settings_instagram_url: "https://www.instagram.com/le.bao_02",
+        settings_tiktok_url: "https://www.tiktok.com/@bao220702"
     });
 
     // ============================================================
@@ -112,7 +112,7 @@ if (ua.includes("Locket")) {
             srgb: true,
             lanczos: true,
             quality_mbps: 0.6,
-            qualityMbps: 0.6
+            qualityMbps: 0.6,
         }),
         camera_roll: JSON.stringify({
             gold_max_duration: 30.0,
@@ -265,10 +265,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            // url: "https://i.ibb.co/vC8b93Ld/ig.png",
-            url: "https://i.ibb.co/1Yt1Dzzy/Shin-chan-1.png",
-            // url: "https://i.ibb.co/RTm5P1n9/kitty-1.png",
-            // url: "https://i.ibb.co/JjLZ3cvD/khung-ins.png",
+            url: "https://i.ibb.co/mV3hYBny/BaoandMo.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
